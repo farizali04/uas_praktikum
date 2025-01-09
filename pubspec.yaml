@@ -63,6 +63,7 @@ flutter:
   assets:
     - assets/crown.png
     - assets/google.png
+    - assets/image.png
     # - assets/icons/google_logo.svg
     # - images/a_dot_ham.jpeg
 
